@@ -1,5 +1,5 @@
 FROM 10.6.13.254:5000/centos:java
-MAINTAINER wangxiyang@ofo.com
+MAINTAINER youremail@address
 
 RUN yum install -y wget lsof zip unzip netstat
 
